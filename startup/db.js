@@ -6,7 +6,8 @@ const trimQuotes = (str) =>
 	str.indexOf('"') !== -1 ? str.slice(1, str.length - 1) : str;
 
 module.exports = function () {
-	const db = trimQuotes(config.get('db'));
+	const db =
+		'mongodb+srv://vuhuycto:quanghuy0211@cluster0.sgpxy.mongodb.net/trueelec?retryWrites=true&w=majority';
 	mongoose
 		.connect(db, { useUnifiedTopology: true, useNewUrlParser: true })
 		.then(() => winston.info(`Connected to ${db}`));

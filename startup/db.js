@@ -8,6 +8,6 @@ const trimQuotes = (str) =>
 module.exports = function () {
 	const db = trimQuotes(config.get('db'));
 	mongoose
-		.connect(db, { useUnifiedTopology: true })
+		.connect(db, { useUnifiedTopology: true, useNewUrlParser: true })
 		.then(() => winston.info(`Connected to ${db}`));
 };

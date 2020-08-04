@@ -101,3 +101,41 @@
 {"level":"info","message":"Listening to port 3000","timestamp":"2020-08-02T13:35:58.888Z"}
 {"level":"info","message":"Listening to port 3000","timestamp":"2020-08-02T13:38:42.693Z"}
 {"level":"info","message":"Connected to mongodb+srv://vuhuycto:quanghuy0211@cluster0.sgpxy.mongodb.net/trueelec?retryWrites=true&w=majority","timestamp":"2020-08-02T13:38:43.289Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T02:02:14.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T02:02:14.472Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T02:02:35.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T02:02:35.658Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T02:04:11.165Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T02:04:11.201Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:11:38.514Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:11:38.541Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:15:08.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:15:08.998Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:15:54.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:15:54.749Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:17:44.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:17:44.658Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:20:45.068Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:20:45.099Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:21:21.909Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:21:21.947Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:21:36.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:21:36.494Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:24:55.327Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:24:55.353Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:29:16.124Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:29:16.152Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:29:34.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:29:34.207Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:29:59.101Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:29:59.128Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:31:28.329Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:31:28.357Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:32:58.135Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:32:58.158Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:34:19.270Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:34:19.294Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:34:28.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:34:28.336Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:44:20.839Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:44:20.864Z"}

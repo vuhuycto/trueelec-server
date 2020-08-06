@@ -139,3 +139,464 @@
 {"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:34:28.336Z"}
 {"level":"info","message":"Listening to port 3000","timestamp":"2020-08-03T03:44:20.839Z"}
 {"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-03T03:44:20.864Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T09:42:16.231Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T09:42:16.260Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T09:43:43.302Z"}
+{"level":"info","message":"Connected to mongodb+srv://vuhuycto:quanghuy0211@cluster0.sgpxy.mongodb.net/trueelec?retryWrites=true&w=majority","timestamp":"2020-08-04T09:43:43.746Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T09:46:31.947Z"}
+{"level":"info","message":"Connected to mongodb+srv://vuhuycto:quanghuy0211@cluster0.sgpxy.mongodb.net/trueelec?retryWrites=true&w=majority","timestamp":"2020-08-04T09:46:37.208Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T14:58:38.107Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:23:41.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:23:41.299Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:23:56.834Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:23:56.855Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:24:07.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:24:07.666Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:24:16.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:24:16.420Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:24:52.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:24:52.962Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:26:37.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:26:37.836Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:28:24.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:28:24.901Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-04T15:28:40.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-04T15:28:40.164Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:22:25.001Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:22:25.061Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:24:49.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:24:49.667Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:31:57.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:31:57.782Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:32:06.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:32:06.443Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:33:50.102Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:33:50.154Z"}
+{"message":"Unexpected string in JSON at position 525","stack":"SyntaxError: Unexpected string in JSON at position 525\n    at JSON.parse (<anonymous>)\n    at parse (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\types\\json.js:89:19)\n    at D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\read.js:121:18\n    at invokeCallback (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:224:16)\n    at done (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:213:7)\n    at IncomingMessage.onEnd (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:273:7)\n    at IncomingMessage.emit (events.js:322:22)\n    at endReadableNT (_stream_readable.js:1187:12)\n    at processTicksAndRejections (internal/process/task_queues.js:84:21)","expose":true,"statusCode":400,"status":400,"body":"{\r\n    \"name\": \"Laptop ASUS ExpertBook P3540FA-BQ0319T (Core i5-8265U/ 8GB (4x2) DDR4 2400MHz/ 512GB SSD M.2 SATA/ 15.6FHD/ Win10) - Hàng Chính Hãng\",\r\n    \"price\": 32,\r\n    \"details\": {\r\n\t    \"CPU\": \"Intel Core i5-8265U 1.6GHz up to 3.9GHz 6MB\",\r\n\t    \"RAM\": \"8GB (4x2) DDR4 2400MHz\",\r\n\t    \"hard_disk\": \"512GB SSD M.2 SATA\",\r\n\t    \"graphic_card\": \"Intel UHD Graphics 620\",\r\n\t    \"monitor\": \"15.6\\\" FHD (1920 x 1080) Anti-Glare with 45% NTSC, 250nits\",\r\n\t    \"OS\": \"Windows 10\",\r\n\t    \"battery\": \"3 Cells 50WHr\"\r\n    }\r\n    \"numberInStock\": 12\r\n}","type":"entity.parse.failed","level":"error","timestamp":"2020-08-05T03:34:49.226Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:37:14.081Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:37:14.109Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:42:02.921Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:42:02.954Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:43:09.045Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:43:09.071Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:43:28.856Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:43:28.888Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:46:09.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:46:09.470Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:46:54.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:46:54.869Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:47:00.158Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:47:00.222Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:47:43.636Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:47:43.684Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:48:09.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:48:09.830Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:49:30.532Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:49:30.573Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:50:24.501Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:50:24.530Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:50:56.208Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:50:56.229Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:53:45.054Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:53:45.072Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:54:22.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:54:23.018Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:54:27.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:54:27.329Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:54:32.678Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:54:32.696Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:54:44.913Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:54:44.973Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:55:15.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:55:15.674Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:55:29.175Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:55:29.197Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:55:49.932Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:55:49.987Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:56:35.983Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:56:36.010Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T03:59:19.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T03:59:19.609Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T04:01:09.457Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T04:01:09.538Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T04:08:31.488Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T04:08:31.518Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T04:09:24.892Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T04:09:24.916Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T04:10:06.386Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T04:10:06.418Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:46:00.581Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:46:00.608Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:47:05.948Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:47:05.973Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:47:27.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:47:27.805Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:49:26.340Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:49:26.402Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:51:14.225Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:51:14.247Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:51:26.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:51:26.069Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T07:53:01.215Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T07:53:01.243Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:01:05.330Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:01:05.347Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:01:19.354Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:01:19.383Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:01:41.245Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:01:41.273Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:25:30.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:25:30.306Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:29:18.327Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:29:18.343Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:29:36.972Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:29:37.005Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:31:50.733Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:31:50.748Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:50:11.563Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:50:11.579Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T08:50:46.906Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T08:50:46.923Z"}
+{"message":"request entity too large","stack":"PayloadTooLargeError: request entity too large\n    at readStream (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:155:17)\n    at getRawBody (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:108:12)\n    at read (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\types\\json.js:135:5)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\School Project\\trueelec\\node_modules\\serve-static\\index.js:75:16)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at cors (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:188:7)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:224:17\n    at originCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:214:15)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:199:9)","name":"PayloadTooLargeError","expected":274880,"length":274880,"limit":102400,"type":"entity.too.large","level":"error","timestamp":"2020-08-05T08:53:36.747Z"}
+{"message":"request entity too large","stack":"PayloadTooLargeError: request entity too large\n    at readStream (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:155:17)\n    at getRawBody (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:108:12)\n    at read (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\types\\json.js:135:5)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\School Project\\trueelec\\node_modules\\serve-static\\index.js:75:16)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at cors (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:188:7)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:224:17\n    at originCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:214:15)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:199:9)","name":"PayloadTooLargeError","expected":166399,"length":166399,"limit":102400,"type":"entity.too.large","level":"error","timestamp":"2020-08-05T08:54:26.272Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:00:25.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:00:25.614Z"}
+{"message":"request entity too large","stack":"PayloadTooLargeError: request entity too large\n    at readStream (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:155:17)\n    at getRawBody (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:108:12)\n    at read (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\types\\json.js:135:5)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\School Project\\trueelec\\node_modules\\serve-static\\index.js:75:16)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at cors (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:188:7)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:224:17\n    at originCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:214:15)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:199:9)","name":"PayloadTooLargeError","expected":186582,"length":186582,"limit":102400,"type":"entity.too.large","level":"error","timestamp":"2020-08-05T09:00:35.751Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:02:41.113Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:02:41.129Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:13:08.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:13:08.806Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:13:16.418Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:13:16.436Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:16:05.137Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:16:05.181Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:22:03.362Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:22:03.390Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:28:25.386Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:28:25.404Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:34:45.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:34:45.246Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:35:31.661Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:35:31.677Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:37:15.999Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:37:16.018Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T09:53:37.896Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T09:53:37.942Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T12:43:05.069Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T12:43:05.097Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T12:43:46.975Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T12:43:47.002Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T12:44:16.427Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T12:44:16.452Z"}
+{"message":"request entity too large","stack":"PayloadTooLargeError: request entity too large\n    at readStream (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:155:17)\n    at getRawBody (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:108:12)\n    at read (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\types\\json.js:135:5)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\School Project\\trueelec\\node_modules\\serve-static\\index.js:75:16)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at cors (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:188:7)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:224:17\n    at originCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:214:15)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:199:9)","name":"PayloadTooLargeError","expected":186582,"length":186582,"limit":102400,"type":"entity.too.large","level":"error","timestamp":"2020-08-05T12:45:46.643Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T12:47:02.515Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T12:47:02.548Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T12:47:34.533Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T12:47:34.578Z"}
+{"message":"request entity too large","stack":"PayloadTooLargeError: request entity too large\n    at readStream (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:155:17)\n    at getRawBody (D:\\School Project\\trueelec\\node_modules\\raw-body\\index.js:108:12)\n    at read (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\read.js:77:3)\n    at jsonParser (D:\\School Project\\trueelec\\node_modules\\body-parser\\lib\\types\\json.js:135:5)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at serveStatic (D:\\School Project\\trueelec\\node_modules\\serve-static\\index.js:75:16)\n    at newFn (D:\\School Project\\trueelec\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\School Project\\trueelec\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at cors (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:188:7)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:224:17\n    at originCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:214:15)\n    at D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (D:\\School Project\\trueelec\\node_modules\\cors\\lib\\index.js:199:9)","name":"PayloadTooLargeError","expected":186582,"length":186582,"limit":102400,"type":"entity.too.large","level":"error","timestamp":"2020-08-05T12:58:03.176Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T14:43:05.008Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T14:43:05.037Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T15:01:56.275Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T15:06:49.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T15:06:49.136Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:20:39.164Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:20:39.196Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:22:03.808Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:22:03.837Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:22:38.090Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:22:38.113Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:24:14.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:24:14.458Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:26:16.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:26:16.693Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:26:41.169Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:26:41.193Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:26:54.936Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:26:54.967Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:27:54.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:27:54.868Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:28:05.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:28:05.741Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:30:21.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:30:21.046Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:30:45.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:30:45.458Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:32:21.786Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:32:21.810Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:32:44.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:32:44.769Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:33:07.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:33:07.232Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:34:58.205Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:34:58.233Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T16:37:25.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T16:37:25.121Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:12:39.491Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:12:39.524Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:15:53.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:15:53.765Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:16:37.870Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:16:37.894Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:17:21.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:17:21.850Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:17:36.522Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:17:36.544Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:18:03.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:18:03.323Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:20:17.408Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:20:17.432Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:22:30.261Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:22:30.283Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:23:09.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:23:09.217Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-05T17:24:17.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-05T17:24:17.065Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T02:44:38.545Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T02:44:38.590Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T02:45:57.801Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T02:45:57.822Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T02:46:57.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T02:46:57.377Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T02:49:00.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T02:49:00.423Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:10:08.153Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:10:08.192Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:10:33.384Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:10:33.430Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:10:45.233Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:10:45.251Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:12:12.214Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:12:12.231Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:13:15.684Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:13:15.705Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:14:42.062Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:14:42.080Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:14:56.086Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:14:56.106Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:15:51.775Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:16:02.245Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:16:02.263Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:18:11.324Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:18:11.341Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:19:03.544Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:19:03.561Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:20:01.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:20:01.594Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:21:50.138Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:21:50.182Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:22:04.173Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:22:04.200Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T03:22:58.267Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T03:22:58.287Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:00:40.018Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:00:40.035Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:11:01.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:11:01.677Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:11:23.873Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:11:23.900Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:11:33.715Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:11:33.730Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:15:00.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:15:00.444Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:15:13.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:15:13.064Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:16:46.653Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:16:46.672Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:16:54.990Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:17:04.045Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:17:04.059Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:17:58.471Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:17:58.488Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:18:16.991Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:18:17.007Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:20:11.298Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:20:11.317Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:20:21.771Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:20:21.793Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:21:06.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:21:06.036Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:21:18.469Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:21:18.492Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:22:26.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:22:26.044Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:23:10.491Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:23:10.516Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:23:53.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:23:53.642Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:25:08.605Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:25:08.625Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:25:31.281Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:25:31.298Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:26:16.078Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:26:16.094Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:29:44.725Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:29:54.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:29:54.236Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:30:51.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:30:51.545Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:31:03.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:31:03.152Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:31:40.823Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:31:40.846Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:31:53.379Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:31:53.395Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:32:50.177Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:32:50.193Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T04:33:03.157Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T04:33:03.174Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:29:51.810Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:29:51.827Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:36:24.909Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:36:24.925Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:36:41.380Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:36:41.408Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:36:51.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:36:51.392Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:38:29.791Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:38:29.814Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:38:42.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:38:42.325Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:39:54.218Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:39:54.234Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:43:35.553Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:43:35.574Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:43:45.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:43:45.991Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:45:21.180Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:45:21.199Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:46:05.954Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:46:05.974Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:46:19.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:46:19.574Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:47:17.557Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:47:17.573Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:48:00.685Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:48:00.703Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:50:54.431Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:50:54.449Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:51:07.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:51:07.121Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:51:43.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:51:43.908Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:51:55.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:51:55.112Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:52:43.170Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:52:43.187Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:53:58.733Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:53:58.756Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:54:09.417Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:54:09.442Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:55:42.709Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:55:51.743Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:55:51.762Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:56:51.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:56:51.266Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:59:41.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:59:41.747Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T06:59:51.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T06:59:51.705Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:01:22.258Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:01:22.277Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:03:30.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:03:30.743Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:03:38.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:03:38.074Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:03:47.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:03:47.950Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:06:40.500Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:06:40.522Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:07:01.183Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:07:01.198Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:07:59.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:07:59.816Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:10:34.850Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:10:34.876Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:10:51.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:10:51.410Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:17:40.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:17:40.124Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:18:28.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:18:28.029Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:18:37.499Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:18:37.528Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:19:22.674Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:19:22.694Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:20:05.532Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:20:05.555Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:20:57.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:20:57.600Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:21:29.355Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:22:17.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:22:17.623Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:25:44.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:25:44.483Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:26:08.715Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:26:08.742Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:26:19.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:26:19.123Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:27:53.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:27:53.141Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:28:26.804Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:28:26.820Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:32:02.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:32:02.917Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:32:12.452Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:32:12.468Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:33:48.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:33:48.244Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:34:22.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:34:22.558Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:34:32.978Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:34:32.997Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:36:46.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:36:46.312Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:37:16.653Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:37:16.673Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:37:27.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:37:27.124Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:38:43.352Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:38:43.368Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:39:19.683Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:39:19.698Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:40:13.261Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:40:13.277Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:41:14.866Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:41:14.884Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:41:26.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:41:26.681Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:42:13.735Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:42:13.750Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:42:55.470Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:42:55.486Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:43:41.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:43:41.531Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T07:44:07.253Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T07:44:07.269Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:48:40.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:48:40.639Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:49:28.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:49:28.356Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:51:06.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:51:06.346Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:55:44.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:55:44.467Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:56:19.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:56:19.920Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:56:57.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:56:57.118Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:57:11.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:57:11.156Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T08:58:21.018Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T08:58:21.044Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T09:00:06.977Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T09:00:06.995Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T09:01:07.436Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T09:01:07.465Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T09:04:27.835Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T09:04:27.914Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T09:06:54.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T09:06:54.330Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T09:08:20.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T09:08:20.257Z"}
+{"level":"info","message":"Listening to port 3000","timestamp":"2020-08-06T09:08:40.512Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/trueelec","timestamp":"2020-08-06T09:08:40.532Z"}

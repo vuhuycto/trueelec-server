@@ -1,15 +1,11 @@
-const express = require('express');
-const error = require('./../middleware/error');
-const laptops = require('./../routes/laptops');
-const phones = require('./../routes/phones');
-const cameras = require('./../routes/cameras');
-const laptopOrders = require('./../routes/laptopOrders');
+import express from 'express';
+import error from './../middleware/error';
+import devices from './../routes/devices';
+import anonymousOrder from './../routes/anonymousOrders';
 
-module.exports = function (app) {
+export default function (app) {
 	app.use(express.json());
 	app.use(error);
-	app.use('/api/laptops', laptops);
-	app.use('/api/phones', phones);
-	app.use('/api/cameras', cameras);
-	app.use('/api/orders/laptops', laptopOrders);
-};
+	app.use('/api/devices', devices);
+	app.use('/api/orders/anonymous', anonymousOrder);
+}

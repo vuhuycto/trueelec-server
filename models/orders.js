@@ -1,12 +1,12 @@
-const Joi = require('joi');
-const mongoose = require('mongoose');
+import Joi from 'joi';
+import mongoose from 'mongoose';
 
 function validateAnonymousOrder(order) {
 	return Joi.validate(order, {
 		customerName: Joi.string().required(),
 		address: Joi.string().required(),
 		phoneNumber: Joi.string().min(10).max(10).required(),
-		email: Joi.string().required(),
+		email: Joi.string().required().email(),
 		deviceId: Joi.objectId().required(),
 	});
 }
@@ -25,12 +25,10 @@ const AnonymousOrder = mongoose.model(
 		phoneNumber: {
 			type: String,
 			required: true,
-			// validate: /^[0-9]{10}$/,
 		},
 		email: {
 			type: String,
 			required: true,
-			// validate: /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/,
 		},
 		device: {
 			type: new mongoose.Schema({
@@ -43,6 +41,10 @@ const AnonymousOrder = mongoose.model(
 					required: true,
 					min: 0,
 				},
+				imageUrl: {
+					type: String,
+					required: true,
+				},
 			}),
 			required: true,
 		},
@@ -51,8 +53,12 @@ const AnonymousOrder = mongoose.model(
 			required: true,
 			default: false,
 		},
+		isPaid: {
+			type: Boolean,
+			required: true,
+			default: false,
+		},
 	})
 );
 
-module.exports.AnonymousOrder = AnonymousOrder;
-module.exports.validateAnonymous = validateAnonymousOrder;
+export { AnonymousOrder, validateAnonymousOrder };

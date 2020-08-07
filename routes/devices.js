@@ -6,7 +6,12 @@ import validateObjectId from './../middleware/validateObjectId';
 const router = express.Router();
 
 router.get('/', async (req, res) => {
-	const devices = await Device.find();
+	const category = req.query.category;
+
+	let devices;
+	if (category) devices = await Device.find().where('category', category);
+	else devices = await Device.find();
+
 	res.send(devices);
 });
 
@@ -25,7 +30,7 @@ router.post('/', async (req, res) => {
 	const renamedImageFile = device._id + path.extname(req.body.filename);
 	device.set('image', {
 		name: renamedImageFile,
-		url: '/assets/' + device._id + renamedImageFile,
+		url: '/assets/' + renamedImageFile,
 	});
 	device.save();
 

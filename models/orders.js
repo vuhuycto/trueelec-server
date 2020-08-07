@@ -7,7 +7,14 @@ function validateAnonymousOrder(order) {
 		address: Joi.string().required(),
 		phoneNumber: Joi.string().min(10).max(10).required(),
 		email: Joi.string().required().email(),
-		deviceId: Joi.objectId().required(),
+		devices: Joi.array()
+			.items(
+				Joi.object({
+					deviceId: Joi.objectId().required(),
+					quantity: Joi.number().required(),
+				})
+			)
+			.required(),
 	});
 }
 
@@ -30,22 +37,8 @@ const AnonymousOrder = mongoose.model(
 			type: String,
 			required: true,
 		},
-		device: {
-			type: new mongoose.Schema({
-				name: {
-					type: String,
-					required: true,
-				},
-				price: {
-					type: Number,
-					required: true,
-					min: 0,
-				},
-				imageUrl: {
-					type: String,
-					required: true,
-				},
-			}),
+		devices: {
+			type: Array,
 			required: true,
 		},
 		isDelivered: {

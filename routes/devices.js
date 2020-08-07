@@ -1,5 +1,6 @@
 import path from 'path';
 import express from 'express';
+
 import { Device, validateDevice } from '../models/devices';
 import validateObjectId from './../middleware/validateObjectId';
 

@@ -1,4 +1,3 @@
-import path from 'path';
 import express from 'express';
 import adminApp from './../routes/adminApp';
 

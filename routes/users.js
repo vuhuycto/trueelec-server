@@ -1,6 +1,7 @@
 import bcrypt from 'bcrypt';
 import _ from 'lodash';
 import express from 'express';
+
 import { User, validate } from './../models/users';
 import auth from './../middleware/auth';
 
